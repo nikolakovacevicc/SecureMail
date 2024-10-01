@@ -1,3 +1,0 @@
-admin:admin
-marija:123
-nikola:123
