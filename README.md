@@ -1,2 +1,2 @@
-# SecureMail
-SecureMail is a Python-based application that implements the PGP (Pretty Good Privacy) scheme for secure email communication. It provides essential cryptographic functionalities, including RSA key management, message encryption, and digital signing.
+# PGP
+This project implements PGP technology for secure message exchange on the internet. Utilizing algorithms such as RSA, SHA-256, SHA-1, and CAST5, it ensures authentication, confidentiality, data compression, and encoding in radix64 format.
